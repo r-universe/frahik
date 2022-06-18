@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BMTME",
+    "oncran": true
+  },
+  {
+    "package": "IBCF.MTME",
+    "oncran": true
+  }
+]

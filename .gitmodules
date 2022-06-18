@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BMTME"]
+	path = BMTME
+	url = https://github.com/frahik/bmtme
+	shallow = true
+	registered = true
+[submodule "IBCF.MTME"]
+	path = IBCF.MTME
+	url = https://github.com/frahik/ibcf.mtme
+	shallow = true
+	registered = true
