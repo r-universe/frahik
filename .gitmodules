@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BMTME"]
-	path = BMTME
-	url = https://github.com/frahik/bmtme
 [submodule "IBCF.MTME"]
 	path = IBCF.MTME
 	url = https://github.com/frahik/ibcf.mtme
